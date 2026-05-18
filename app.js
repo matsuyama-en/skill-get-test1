@@ -353,7 +353,7 @@ const QUESTIONS = [
     points: 2,
     prompt: "Listen to the audio. What food does the speaker prefer to buy at the supermarket?",
     audio: "elllo.org – Rocio (El Salvador) talks about buying dinner at the supermarket.",
-    audioSrc: "https://elllo.org/Audio/1ME-A2BEG/A2-009-ROCiO-BUY-DINNER-AT-THE-SUPERMARKET.mp3",
+    audioSrc: "audio/listening-A2-rocio.mp3",
     options: [
       "Fast food, because it is quick to prepare",
       "Sushi or rice with vegetables",
@@ -368,7 +368,7 @@ const QUESTIONS = [
     points: 3,
     prompt: "Listen to the audio. What does the speaker say he had to do on his paper round regardless of the weather?",
     audio: "elllo.org – Arthur (Australia) talks about his first part-time job delivering newspapers.",
-    audioSrc: "https://elllo.org/Audio/1ME-B1INT/B1-009-ARTHUR-PART-TIME-JOB.mp3",
+    audioSrc: "audio/listening-B1-arthur.mp3",
     options: [
       "Stay home if it was raining heavily",
       "Deliver the newspapers every Wednesday without fail",
@@ -383,7 +383,7 @@ const QUESTIONS = [
     points: 4,
     prompt: "Listen to the audio. What is the speaker's main reason for preferring modern medicine?",
     audio: "elllo.org – Arthur (Australia) discusses natural versus modern medicine.",
-    audioSrc: "https://elllo.org/Audio/1ME-B2INT/B2-009-ARTHUR-NATURAL-VS-MODERN-MEDICINE.mp3",
+    audioSrc: "audio/listening-B2-arthur.mp3",
     options: [
       "Modern medicine is cheaper than herbal treatments",
       "He does not believe natural medicine has any value",
@@ -398,7 +398,7 @@ const QUESTIONS = [
     points: 5,
     prompt: "Listen to the audio. Which example does the speaker use to support her view about AI and industry?",
     audio: "elllo.org – Grace (South Africa) discusses what industry AI will put out of business.",
-    audioSrc: "https://elllo.org/Audio/1ME-C1ADV/C1-008-CARLA-AI-PUT-OUT-OF-BUSINESS.mp3",
+    audioSrc: "audio/listening-C1-grace.mp3",
     options: [
       "Paper-based media was destroyed overnight by the internet",
       "AI has already eliminated most office jobs worldwide",
